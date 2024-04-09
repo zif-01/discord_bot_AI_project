@@ -23,40 +23,66 @@ ________________________________________________________________________________
  
  
 Дизайн проекта:
+
 данные: 
+
 ●	каталог музыки youtube
 
 библиотеки/инструменты:
+
 ●	discord.py
+
 ●	youtube-dl
+
 ●	ffmpeg
+
 ●	os
+
 ●	musicnn
+
 ●	PyNaCl
+
 ●	time
+
 ●	numpy
+
 ●	tensorflow
+
 ●	nest_asyncho
+
 Ссылка на программный код:
+
 https://colab.research.google.com/drive/1GmhNAyeupOTAJ8eHlgF5tOPxb5piHSDn?usp=sharing
+
 Ссылка на добавление бота в дискорд
+
 https://discord.com/api/oauth2/authorize?client_id=1065218715869794314&permissions=8&scope=bot%20applications.commands
+
 токен бота: MTA2NTIxODcxNTg2OTc5NDMxNA.GkUWXj.pauI4XEllkCB8Ex7qinGAXV3hkNvI-yO62JtQ4
 
  
 Варианты развития проекта:
+
 Вариантов развития данного проекта целая куча. Можно добавить команду для создания пользовательских плейлистов, можно добавить возможность отправления как трека так и его тегов пользователю в личные сообщения,
+
 можно добавить стандартный функционал ботов-помощников, и наконец можно улучшить user-experience, то есть упростить ввод команд, добавить вспомогательные сообщения, улучшить визуальное оформления в текстовом канале,
+
 добавить функции паузы и “перемотки”, добавление функции проигрывания всего плейлиста, не учитывая теги, добавление возможности задавать порядок воспроизведения песен из плейлиста,и улучшение скорости работы
 
 
 
 
+
 Используемые источники:
+
 1.	https://github.com/ytdl-org/youtube-dl
-2.	https://github.com/jordipons/musicnn
-3.	https://discordpy.readthedocs.io/en/stable/index.html
-4.	https://www.youtube.com/watch?v=cVjXJlBYEt8&t=4316s
-5.	https://www.youtube.com/watch?v=mOI-j7evA5Q&t=474s
+2.	
+3.	https://github.com/jordipons/musicnn
+4.	
+5.	https://discordpy.readthedocs.io/en/stable/index.html
+6.	
+7.	https://www.youtube.com/watch?v=cVjXJlBYEt8&t=4316s
+8.	
+9.	https://www.youtube.com/watch?v=mOI-j7evA5Q&t=474s
 
 
