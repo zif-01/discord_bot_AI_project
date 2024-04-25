@@ -7,15 +7,6 @@ import nest_asyncio
 nest_asyncio.apply()
 from musicnn.tagger import top_tags
 
-import discord
-import os
-from discord.ext import commands
-import time
-from youtube_dl import YoutubeDL
-import nest_asyncio 
-nest_asyncio.apply()
-from musicnn.tagger import top_tags
-
 YDL_OPTIONS = {'format': 'worstaudio/best', 'noplaylist': 'False', 'simulate': 'True',
                'preferredquality': '192', 'preferredcodec': 'mp3', 'key': 'FFmpegExtractAudio'}
 FFMPEG_OPTIONS = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5', 'options': '-vn'}
