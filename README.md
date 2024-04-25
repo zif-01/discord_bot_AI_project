@@ -58,7 +58,9 @@ https://colab.research.google.com/drive/1GmhNAyeupOTAJ8eHlgF5tOPxb5piHSDn?usp=sh
 
 https://discord.com/api/oauth2/authorize?client_id=1065218715869794314&permissions=8&scope=bot%20applications.commands
 
-токен бота: MTA2NTIxODcxNTg2OTc5NDMxNA.GkUWXj.pauI4XEllkCB8Ex7qinGAXV3hkNvI-yO62JtQ4
+токен бота: ******
+
+
 
  
 Варианты развития проекта:
